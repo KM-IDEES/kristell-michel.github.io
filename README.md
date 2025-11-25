@@ -7,7 +7,10 @@
   Add your open source license, GitHub uses MIT license.
 -->
 
-# GitHub Pages
+# Kristell MICHEL
+Research engineer. Geomorphology, Environmental Change, Geoarchaeology. Geomatics/Remote sensing, Collaborative tools, Field metrology/Aerial acquisitions.
+UMR 6266 IDEES (Identité et Différenciation de l'Espace, de l'Environnement et des sociétés), Caen-Normandie University. 
+
 
 _Create a site or blog from your GitHub repositories with GitHub Pages._
 
